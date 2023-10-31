@@ -25,8 +25,7 @@ Provide the text or the path to the image you want to encrypt. The program will 
 
 ## Contributing
 
-We welcome any contributions. Please read [CONTRIBUTING.md](http://contributing.md/) for details on our code of conduct and the process for submitting pull requests.
-
+We welcome any contributions.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](http://license.md/) file for details.
